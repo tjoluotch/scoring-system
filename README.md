@@ -9,7 +9,7 @@ Implementation of a Scoring system in C++. Receives reports of new scores for pl
 - iostream
 - algorithm
 
-Demonstrated usage of pointers, iterators and algorithms in C++.
+Demonstrated usage of pointer referencing and dereferencing, iterators and algorithms in C++.
 
 ## Class Record
 ### Constructors
